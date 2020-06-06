@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="278" height="325" viewBox="0 0 278 325">
+  <defs>
+    <filter id="長方形_2176" x="10" y="11" width="268" height="314" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_2125" x="72" y="61" width="138" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_468" data-name="グループ 468" transform="translate(-3680 -3235)">
+    <g transform="matrix(1, 0, 0, 1, 3680, 3235)" filter="url(#長方形_2176)">
+      <g id="長方形_2176-2" data-name="長方形 2176" transform="translate(16 17)" fill="#fff" stroke="#707070" stroke-width="0.2">
+        <rect width="250" height="296" stroke="none"/>
+        <rect x="0.1" y="0.1" width="249.8" height="295.8" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 3680, 3235)" filter="url(#長方形_2125)">
+      <rect id="長方形_2125-2" data-name="長方形 2125" width="120" height="120" rx="60" transform="translate(81 67)" fill="#2f3f59"/>
+    </g>
+    <g id="グループ_463" data-name="グループ 463" transform="translate(3680 3235)">
+      <ellipse id="楕円形_205" data-name="楕円形 205" cx="26" cy="27" rx="26" ry="27" transform="translate(0 0)" fill="#d2b600"/>
+    </g>
+    <text id="_4" data-name="4" transform="translate(3706 3274)" fill="#fff" font-size="32" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.12em"><tspan x="-9.168" y="0">4</tspan></text>
+    <text id="コンサルタントが徹底的に_マネジメントもサポートします" data-name="コンサルタントが徹底的に
+マネジメントもサポートします" transform="translate(3821 3471)" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.06em"><tspan x="-100.96" y="0">コンサルタントが徹底的に</tspan><tspan x="-117.76" y="25">マネジメントもサポートします</tspan></text>
+    <path id="パス_1823" data-name="パス 1823" d="M347.5,503.86" transform="translate(3461.889 2855.718)" fill="none" stroke="#f2f2f2" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="パス_1824" data-name="パス 1824" d="M333.5,502.86" transform="translate(3474.457 2856.597)" fill="none" stroke="#f2f2f2" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="パス_1858" data-name="パス 1858" d="M911.175,601.24a7.455,7.455,0,0,0-1,.586.814.814,0,0,0-.132.108,1,1,0,0,0-.081.107,2,2,0,0,0-.341.681" transform="translate(2957.102 2770.129)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1" opacity="0.1"/>
+    <path id="パス_1860" data-name="パス 1860" d="M268.445,254.4c-.121,0-.243,0-.365,0a15.373,15.373,0,1,0,13.529,8.058l-12.728,9.565Z" transform="translate(3549.005 3088.583)" fill="none"/>
+    <line id="線_591" data-name="線 591" x1="13.944" y2="11.62" transform="translate(3826.683 3331.996)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.5"/>
+    <line id="線_590" data-name="線 590" y1="11.62" x2="15.106" transform="translate(3834.817 3342.454)" fill="none" stroke="#9a9a9a" stroke-miterlimit="10" stroke-width="0.5"/>
+    <rect id="長方形_2180" data-name="長方形 2180" width="14.707" height="3.351" transform="translate(3846.532 3340.846)" fill="#fff"/>
+    <rect id="長方形_2181" data-name="長方形 2181" width="14.707" height="3.351" transform="translate(3836.209 3330.019)" fill="#fff"/>
+    <path id="パス_1861" data-name="パス 1861" d="M252.9,230.393a17.874,17.874,0,1,1-15.72-9.364c.142,0,.283,0,.424.005l-.189-7.635c-.078,0-.156,0-.235,0a25.5,25.5,0,1,0,21.869,12.376Z" transform="translate(3577.399 3126.63)" fill="#d2b600"/>
+    <path id="パス_1862" data-name="パス 1862" d="M365.371,230.406l6.149-4.621a25.489,25.489,0,0,0-21.634-12.373l.189,7.635A17.869,17.869,0,0,1,365.371,230.406Z" transform="translate(3464.93 3126.617)" fill="#fcea67"/>
+    <line id="線_595" data-name="線 595" x2="11.62" y2="10.458" transform="translate(3834.817 3379.637)" fill="none" stroke="#9a9a9a" stroke-miterlimit="10" stroke-width="0.5"/>
+    <rect id="長方形_2201" data-name="長方形 2201" width="14.707" height="3.351" transform="translate(3843.046 3389.649)" fill="#fff"/>
+    <line id="線_596" data-name="線 596" x2="15" transform="translate(3783.5 3328.5)" fill="none" stroke="#c9c9c9" stroke-width="1"/>
+    <line id="線_597" data-name="線 597" x2="15" transform="translate(3783.5 3331.5)" fill="none" stroke="#c9c9c9" stroke-width="1"/>
+    <line id="線_598" data-name="線 598" x2="15" transform="translate(3783.5 3334.5)" fill="none" stroke="#c9c9c9" stroke-width="1"/>
+    <circle id="楕円形_280" data-name="楕円形 280" cx="1" cy="1" r="1" transform="translate(3784 3324)" fill="#fff"/>
+    <circle id="楕円形_281" data-name="楕円形 281" cx="1" cy="1" r="1" transform="translate(3790 3324)" fill="#fff"/>
+  </g>
+</svg>

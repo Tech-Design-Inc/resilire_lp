@@ -1,0 +1,86 @@
+.header{
+  margin-top: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.header-inner{
+  max-width: 1024px;
+  width: 90%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 10px;
+}
+.header-logo{
+  height: 35px;
+}
+
+.thanks{
+  text-align: center;
+  width: 665px;
+  margin: 140px auto 0 auto;
+}
+
+.thanks-img{
+  width: 300px;
+  height: 300px;
+}
+
+.thanks-title{
+  text-align: center;
+font: Bold 24px YuGothic;
+letter-spacing: 1.44px;
+color: #222F40;
+}
+
+.thanks-subtitle{
+  margin-top: 20px;
+  text-align: center;
+font: 18px YuGothic;
+letter-spacing: 1.08px;
+color: #222F40;
+font-weight: bold;
+}
+
+.thanks-info{
+  text-align: center;
+  margin-top: 20px;
+font: Bold 24px YuGothic;
+letter-spacing: 1.44px;
+color: #222F40;
+}
+
+.toppage-back{
+  text-align: center;
+  margin: 40px auto;
+font: Bold 24px YuGothic;
+letter-spacing: 1.44px;
+padding: 10px;
+width: 460px;
+color: #222F40;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.thanks-last{
+  text-align: center;
+  margin: 40px auto -10px auto;
+  font: 16px YuGothic;
+}
+
+.toppage-back a{
+  text-decoration: none;
+  color: black;
+}
+
+.toppage-back:hover {
+  background : #F8F8F8;
+}

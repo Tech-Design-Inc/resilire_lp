@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="278" height="325" viewBox="0 0 278 325">
+  <defs>
+    <filter id="長方形_2177" x="10" y="11" width="268" height="314" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="長方形_2123" x="78" y="66" width="138" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="グループ_472" data-name="グループ 472" transform="translate(-815 -5425)">
+    <g transform="matrix(1, 0, 0, 1, 815, 5425)" filter="url(#長方形_2177)">
+      <g id="長方形_2177-2" data-name="長方形 2177" transform="translate(16 17)" fill="#fff" stroke="#707070" stroke-width="0.2">
+        <rect width="250" height="296" stroke="none"/>
+        <rect x="0.1" y="0.1" width="249.8" height="295.8" fill="none"/>
+      </g>
+    </g>
+    <g id="グループ_464" data-name="グループ 464" transform="translate(815 5425)">
+      <ellipse id="楕円形_205" data-name="楕円形 205" cx="26" cy="27" rx="26" ry="27" transform="translate(0 0)" fill="#d2b600"/>
+    </g>
+    <text id="_3" data-name="3" transform="translate(841 5464)" fill="#fff" font-size="32" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.12em"><tspan x="-9.168" y="0">3</tspan></text>
+    <g id="グループ_467" data-name="グループ 467" transform="translate(17 34)">
+      <g transform="matrix(1, 0, 0, 1, 798, 5391)" filter="url(#長方形_2123)">
+        <rect id="長方形_2123-2" data-name="長方形 2123" width="120" height="120" rx="60" transform="translate(87 72)" fill="#2f3f59"/>
+      </g>
+      <g id="グループ_459" data-name="グループ 459" transform="translate(915.118 5492.892)">
+        <path id="パス_1655" data-name="パス 1655" d="M279,495.6a2,2,0,0,1,1.789-.241s-.254.541-1.388.534Z" transform="translate(-273.58 -465.198)" fill="#d2b600"/>
+        <path id="パス_1730" data-name="パス 1730" d="M259.3,359.053l-8.507,3.291-12.434,4.806c-.469-.871-1.161-2.062-2.018-3.477-2.944-4.881-7.817-12.472-12.154-19.142-4.888-7.516-9.095-13.863-9.095-13.863l3.045-.883,24.875-7.215Z" transform="translate(-215.09 -307.178)" opacity="0.1"/>
+        <path id="パス_1731" data-name="パス 1731" d="M261.3,352.053l-8.507,3.291-12.434,4.806c-.469-.871-1.161-2.062-2.018-3.477-2.944-4.881-7.817-12.472-12.154-19.142-4.888-7.516-9.095-13.863-9.095-13.863l3.045-.883,24.875-7.215Z" transform="translate(-216.92 -300.772)" fill="#fff"/>
+        <path id="パス_1732" data-name="パス 1732" d="M294.162,352.053l-8.507,3.291a63.979,63.979,0,0,1-14.452,1.329c-2.944-4.881-7.817-12.472-12.154-19.142L253,322.785l24.875-7.215Z" transform="translate(-249.785 -300.772)" opacity="0.1"/>
+        <path id="パス_1733" data-name="パス 1733" d="M287.679,310.835s-13.216,7.817-32.947,6.053L239,278.54l7.538-1.3L272.6,272.77l14.786,37.324Z" transform="translate(-236.972 -261.602)" fill="#d2b600"/>
+        <path id="パス_1734" data-name="パス 1734" d="M368.772,310.094a62.565,62.565,0,0,1-10.335-.293,33.2,33.2,0,0,1-11.242-3.153,34.132,34.132,0,0,1-7.349-4.937c-5.479-4.929-8.871-11.98-11.916-24.466l26.059-4.475Z" transform="translate(-318.36 -261.602)" opacity="0.1"/>
+        <path id="パス_1735" data-name="パス 1735" d="M359.384,187.428a72.062,72.062,0,0,1-19.656.734,33.229,33.229,0,0,1-11.242-3.153,34.136,34.136,0,0,1-7.349-4.937c-6.784-6.106-10.364-15.453-14.057-34.339a49.8,49.8,0,0,0,32.2-4.653S344.68,174.771,359.384,187.428Z" transform="translate(-299.279 -141.08)" fill="#fff"/>
+        <path id="パス_1736" data-name="パス 1736" d="M491.421,569.816a33.229,33.229,0,0,1-11.242-3.153,34.131,34.131,0,0,1-7.349-4.937c5.774-.469,6.6-3.626,6.6-3.626C483.716,564.895,491.421,569.816,491.421,569.816Z" transform="translate(-450.972 -522.734)" opacity="0.1"/>
+        <path id="パス_1737" data-name="パス 1737" d="M405.85,239.043A30.884,30.884,0,0,0,422.7,235.46l.558,1.792a43.267,43.267,0,0,1-17.4,3.885Z" transform="translate(-389.672 -227.456)" fill="#d2b600" opacity="0.3"/>
+        <path id="パス_1738" data-name="パス 1738" d="M405.85,324.242a57.3,57.3,0,0,0,18.28-5.352l.326.745s-3.544,4.46-18.606,5.625Z" transform="translate(-389.672 -303.811)" opacity="0.3"/>
+        <path id="パス_1739" data-name="パス 1739" d="M417.94,364.931a57.308,57.308,0,0,0,18.28-5.351l.326.745s-3.543,4.464-18.606,5.63Z" transform="translate(-400.737 -341.05)" opacity="0.3"/>
+        <path id="パス_1740" data-name="パス 1740" d="M429,408.781a57.308,57.308,0,0,0,18.28-5.351l.326.745s-3.548,4.462-18.606,5.63Z" transform="translate(-410.859 -381.181)" opacity="0.3"/>
+        <path id="パス_1741" data-name="パス 1741" d="M442.13,446.361a57.309,57.309,0,0,0,18.28-5.351l.326.745s-3.543,4.462-18.606,5.631Z" transform="translate(-422.876 -415.574)" opacity="0.3"/>
+        <path id="パス_1742" data-name="パス 1742" d="M454.23,487.081a57.308,57.308,0,0,0,18.28-5.351l.326.745s-3.544,4.462-18.606,5.63Z" transform="translate(-433.949 -452.841)" opacity="0.1"/>
+        <rect id="長方形_2112" data-name="長方形 2112" width="2.557" height="2.557" transform="translate(35.887 13.581) rotate(-18.8)" fill="#d2b600" opacity="0.3"/>
+        <rect id="長方形_2113" data-name="長方形 2113" width="2.557" height="2.557" transform="translate(37.264 17.182) rotate(-18.8)" fill="#d2b600" opacity="0.3"/>
+        <rect id="長方形_2114" data-name="長方形 2114" width="2.557" height="2.557" transform="translate(39.471 24.111) rotate(-18.8)" fill="#d2b600" opacity="0.3"/>
+        <rect id="長方形_2115" data-name="長方形 2115" width="2.557" height="2.557" transform="translate(40.738 27.829) rotate(-18.8)" fill="#d2b600" opacity="0.3"/>
+        <rect id="長方形_2116" data-name="長方形 2116" width="2.557" height="2.557" transform="translate(38.386 20.923) rotate(-18.8)" fill="#d2b600" opacity="0.3"/>
+        <path id="パス_1773" data-name="パス 1773" d="M716.6,439.551l6.784-2.534a.645.645,0,0,1,.83.378h0a.645.645,0,0,1-.379.83l-6.785,2.535-1.454-.146Z" transform="translate(-673.154 -411.882)" fill="#5c5c8e"/>
+        <path id="パス_1774" data-name="パス 1774" d="M723.993,438.266h0a.646.646,0,0,1-.379.831l-6.784,2.534-1.092-.109-.157.17,1.454.146,6.784-2.535a.645.645,0,0,0,.379-.83h0a.642.642,0,0,0-.264-.322.7.7,0,0,1,.059.116Z" transform="translate(-673.135 -412.956)" fill="#fff" opacity="0.1"/>
+        <path id="パス_1775" data-name="パス 1775" d="M694.3,415.58l.452,1.209-1.193-.12-.261-.026.357-.378Z" transform="translate(-650.853 -387.911)" fill="#efc8c4"/>
+        <path id="パス_1776" data-name="パス 1776" d="M715.974,475.42a.259.259,0,0,1,.07.076.109.109,0,0,1,0,.118.264.264,0,0,1-.066.047.216.216,0,0,0-.1.164l-.261-.026Z" transform="translate(-673.172 -447.066)" fill="#727a9c"/>
+        <path id="パス_1777" data-name="パス 1777" d="M644.406,286.838l-1.144-.558a.138.138,0,0,1-.064-.185l.121-.249a.137.137,0,0,1,.185-.064l.771.376.8-1.65a.139.139,0,0,1,.185-.064l.249.122a.137.137,0,0,1,.064.185l-.987,2.024A.138.138,0,0,1,644.406,286.838Z" transform="translate(-606.879 -272.273)" fill="#3acc6c"/>
+        <path id="パス_1778" data-name="パス 1778" d="M673.876,370.99l-1.144-.558a.138.138,0,0,1-.064-.185l.121-.249a.139.139,0,0,1,.186-.064l.77.376.8-1.652a.139.139,0,0,1,.185-.064l.249.122a.138.138,0,0,1,.064.185l-.987,2.024a.14.14,0,0,1-.186.064Z" transform="translate(-633.85 -349.286)" fill="#3acc6c"/>
+        <path id="パス_1779" data-name="パス 1779" d="M660.642,329.5l-1.144-.558a.139.139,0,0,1-.064-.185l.122-.249a.137.137,0,0,1,.185-.064l.771.376.8-1.653a.138.138,0,0,1,.185-.064l.249.121a.14.14,0,0,1,.064.186l-.988,2.026a.138.138,0,0,1-.185.064Z" transform="translate(-621.738 -311.31)" fill="#3acc6c"/>
+        <path id="パス_1780" data-name="パス 1780" d="M686.676,409.008l-1.144-.558a.138.138,0,0,1-.064-.185l.121-.249a.138.138,0,0,1,.185-.064l.771.376.8-1.65a.14.14,0,0,1,.186-.064l.248.122a.137.137,0,0,1,.064.185l-.986,2.024A.14.14,0,0,1,686.676,409.008Z" transform="translate(-645.564 -384.081)" fill="#3acc6c"/>
+      </g>
+    </g>
+    <text id="Resilireの_ご活用方法をご提案" data-name="Resilireの
+ご活用方法をご提案" transform="translate(962 5663)" font-size="16" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.06em"><tspan x="-41.04" y="0">Resilireの</tspan><tspan x="-75.84" y="25">ご活用方法をご提案</tspan></text>
+  </g>
+</svg>
