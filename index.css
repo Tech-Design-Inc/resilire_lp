@@ -4,7 +4,7 @@ header html, a, button {
 
 body {
   margin: 0;
-  font-family: YuGothic, sans-serif;
+  font-family: sans-serif;
 }
 
 ul {
@@ -102,7 +102,7 @@ line-height: 40px;
 
 .subtitle{
   margin: 0 0 20px 0;
-  font:20px YuGothic;
+  font:20px sans-serif;
   text-align: left;
 }
 
@@ -201,7 +201,7 @@ background: transparent linear-gradient(90deg, #BA7200 0%, #DFAC01 100%) 0% 0% n
 
 .contents-subtitle{
 text-align: center;
-font: Bold 10px YuGothic;
+font: Bold 10px sans-serif;
 letter-spacing: 1.2px;
 color: #222F40;
 opacity: 1;
@@ -209,7 +209,7 @@ opacity: 1;
 
 .contents-subtitle01{
   text-align: center;
-  font: Bold 10px YuGothic;
+  font: Bold 10px sans-serif;
   letter-spacing: 1.2px;
   color: #ffffff;
   opacity: 1;
@@ -224,7 +224,7 @@ width: 80%;
 
 .can01-title{
 text-align: center;
-font: Bold 18px YuGothic;
+font: Bold 18px sans-serif;
 letter-spacing: 1.08px;
 color: #000000;
 margin-top: 10px;
@@ -232,7 +232,7 @@ margin-top: 10px;
 
 .can02-title{
   text-align: center;
-font: Bold 18px YuGothic;
+font: Bold 18px sans-serif;
 letter-spacing: 1.08px;
 color: #000000;
 margin-top: 10px;
@@ -241,14 +241,14 @@ margin-top: 10px;
   .can03-title{
     text-align: center;
     margin-top: 10px;
-  font: Bold 18px YuGothic;
+  font: Bold 18px sans-serif;
   letter-spacing: 1.08px;
   color: #000000;
     }
 
   .can01-subtitle{
     text-align: center;
-font-family:YuGothic;
+font-family:sans-serif;
 letter-spacing: 0.9px;
 color: #000000;
     }
@@ -256,7 +256,7 @@ color: #000000;
 .contents-title{
   text-align: center;
   margin: 100px auto 0px auto;
-  font: Bold 26px YuGothic;
+  font: Bold 26px sans-serif;
   letter-spacing: 3.12px;
   color: #1A1A1A;
   }
@@ -264,7 +264,7 @@ color: #000000;
   .contents-title-support{
     text-align: center;
     margin: 100px auto 0px auto;
-    font: Bold 26px YuGothic;
+    font: Bold 26px sans-serif;
     letter-spacing: 3.12px;
     color: #1A1A1A;
     }
@@ -274,7 +274,7 @@ color: #000000;
     margin-right: 20px;
     margin-top: 20px;
     text-align: center;
-font: 15px YuGothic;
+font: 15px sans-serif;
 letter-spacing: 0.9px;
 color: #000000;
     }
@@ -322,7 +322,7 @@ color: #000000;
       .charactorright-title{
         margin: 0px 0px 20px 0px;
         text-align: left;
-      font: bold 34px YuGothic;
+      font: bold 34px sans-serif;
       letter-spacing: 1.08px;
       color: #000000;
       line-height: 180%;
@@ -330,7 +330,7 @@ color: #000000;
         }
 
       .charactorright-subtitle{
-        font: 18px YuGothic;
+        font: 18px sans-serif;
         margin: 0px 0px 0px 0px;
         letter-spacing: 1.08px;
         color: #000000;
@@ -384,7 +384,7 @@ border-radius: 30px;
       .interview01 p {
         position: absolute;
         color: black;/*文字は白に*/
-        font: YuGothic;
+        font: sans-serif;
         background: #FFFFFF ;
         top: 170px;
         left: 0;
@@ -397,13 +397,13 @@ border-radius: 30px;
         .interview-title{
           margin-top: 5px;
           text-align: left;
-font: Bold 20px YuGothic;
+font: Bold 20px sans-serif;
 letter-spacing: 1.2px;
         }
 
         .interview-subtitle{
           text-align: left;
-font: Medium 11px/ YuGothic;
+font: Medium 11px/ sans-serif;
 letter-spacing: 0.66px;
         }
 
@@ -421,7 +421,7 @@ letter-spacing: 0.66px;
       .contents-title06{
         text-align: center;
         margin: 40px auto 0px auto;
-        font: Bold 26px YuGothic;
+        font: Bold 26px sans-serif;
       letter-spacing: 3.12px;
       color: #1A1A1A;
      padding-top: 60px;
@@ -430,7 +430,7 @@ letter-spacing: 0.66px;
       .contents-title-white{
         text-align: center;
         margin: 10px auto 0px auto;
-        font: Bold 26px YuGothic;
+        font: Bold 26px sans-serif;
       letter-spacing: 3.12px;
       color: #ffffff;
      padding-top: 20px;
@@ -464,7 +464,7 @@ text-align: center;
     .lite-plan h2
     {
       background-color: #797979;
-      font: 18px YuGothic bold;
+      font: 18px sans-serif bold;
       color: white;
       padding: 10px;
       border-radius: 4px 4px 0 0;
@@ -476,16 +476,16 @@ text-align: center;
       }
 
       .subtitle-plan{
-        font: 14px YuGothic;
+        font: 14px sans-serif;
         color: #263449;
       }
 
       .small-title{
-        font: 16px YuGothic;
+        font: 16px sans-serif;
       }
 
       th{
-        font: 14px YuGothic;
+        font: 14px sans-serif;
         font-weight: normal;
         text-align: left;
         padding: 5.6px 7px 5.6px 21px;
@@ -497,7 +497,7 @@ padding: 5.6px 21px 5.6px 7px;
 
       .blue{
         color: #0567A8;
-        font: bold YuGothic;
+        font: bold sans-serif;
       }
 
       .margintop{
@@ -506,7 +506,7 @@ padding: 5.6px 21px 5.6px 7px;
 
     .btn-plan{
       background-color: #797979;
-      font: 16px YuGothic bold;
+      font: 16px sans-serif bold;
       color: white;
       padding: 15px 30px;
       display: inline-block;
@@ -521,7 +521,7 @@ padding: 5.6px 21px 5.6px 7px;
     .standard-plan h2
     {
       background-color: #4A5F8A;
-      font: 18px YuGothic bold;
+      font: 18px sans-serif bold;
       color: white;
 
       border-radius: 4px 4px 0 0;
@@ -529,7 +529,7 @@ padding: 5.6px 21px 5.6px 7px;
 
     .btn-plan02{
       background-color: #4A5F8A;
-      font: 16px YuGothic bold;
+      font: 16px sans-serif bold;
       color: white;
       padding: 15px 30px;
       display: inline-block;
@@ -540,7 +540,7 @@ padding: 5.6px 21px 5.6px 7px;
     .enterprice-plan h2
     {
       background-color: #C98A01;
-      font: 18px YuGothic bold;
+      font: 18px sans-serif bold;
       color: white;
       padding: 10px;
       margin-top: 0px;
@@ -549,7 +549,7 @@ padding: 5.6px 21px 5.6px 7px;
 
     .btn-plan03-1{
       background-color: #222F40;
-      font: 16px YuGothic bold;
+      font: 16px sans-serif bold;
       border-radius: 40px;
       color: white;
       padding: 10px 30px;
@@ -575,7 +575,7 @@ padding: 5.6px 21px 5.6px 7px;
 
     .btn-plan03{
     background-color: #C98A01;
-      font: 16px YuGothic bold;
+      font: 16px sans-serif bold;
       color: white;
       padding: 15px 30px;
       display: inline-block;
@@ -592,7 +592,7 @@ padding: 5.6px 21px 5.6px 7px;
       .impact-message{
         text-align: center;
         margin: 0 auto 0 auto;
-        font: Bold 26px YuGothic;
+        font: Bold 26px sans-serif;
       letter-spacing: 3.12px;
       color: #1A1A1A;
       }
@@ -636,14 +636,14 @@ margin: 40px auto;
 
       .title-closing{
         text-align: center;
-font: Bold 40px YuGothic;
+font: Bold 40px sans-serif;
 color: #C78600;
 margin: 0px auto 0 auto;
       }
 
       .title-closing01{
         text-align: center;
-font: Bold 40px YuGothic;
+font: Bold 40px sans-serif;
 color: #ffffff;
 margin: 30px auto 0 auto;
       }
@@ -710,7 +710,7 @@ margin-top: 100px;
 display: flex;
 color: white;
 text-decoration: none;
-font: Bold 14px YuGothic;
+font: Bold 14px sans-serif;
 letter-spacing: 0.9px;
 margin: 10px auto;
 }
@@ -722,7 +722,7 @@ margin: 0 10px;
 .menu02{
 color: white;
 text-decoration: none;
-font: Bold 13px YuGothic;
+font: Bold 13px sans-serif;
 letter-spacing: 0.9px;
 }
 
@@ -738,7 +738,7 @@ text-align: center;
 .menu03{
 color: white;
 text-decoration: none;
-font: 12px YuGothic;
+font: 12px sans-serif;
 letter-spacing: 0.9px;
 text-align: right;
 }
@@ -807,7 +807,7 @@ padding: 20px 30px 0 30px;
     .can01-subtitle{
       margin-top: -20px;
       text-align: center;
-  font: 15px YuGothic;
+  font: 15px sans-serif;
   letter-spacing: 0.9px;
   color: #000000;
       }
@@ -958,7 +958,7 @@ justify-content: center;
       .charactorleft-title{
         margin: 10px 100px 20px 0px;
         text-align: left;
-      font: bold 34px YuGothic;
+      font: bold 34px sans-serif;
       letter-spacing: 1.08px;
       color: #000000;
       line-height: 1.4;
@@ -1038,7 +1038,7 @@ justify-content: center;
 
       .btn-plan02{
         background-color: #4A5F8A;
-        font: 16px YuGothic bold;
+        font: 16px sans-serif bold;
         color: white;
         padding: 15px 30px;
         display: inline-block;
@@ -1343,7 +1343,7 @@ height: 680px;
 
     .subtitle{
       margin: 10px 0 20px 0;
-      font:14px YuGothic;
+      font:14px sans-serif;
       text-align: center;
       width: 360px;
   }
@@ -1448,7 +1448,7 @@ height: 680px;
     .charactorleft-subtitle{
       width: 100%;
       margin-left: -20px;
-      font: 14px YuGothic;
+      font: 14px sans-serif;
         line-height: 160%;
 
     }
@@ -1494,7 +1494,7 @@ height: 680px;
   .charactorleft-title{
     margin: 10px 0 20px -20px;
     text-align: left;
-  font: bold 24px YuGothic;
+  font: bold 24px sans-serif;
   letter-spacing: 1.08px;
   color: #000000;
     }
