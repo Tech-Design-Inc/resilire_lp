@@ -1085,15 +1085,21 @@ td {
     background: #C98A01;
   }
 
-  /*header*/
   .footer-logo {
-    margin: 120px 600px auto 120px;
+    margin: auto 0;
   }
 
   .inner-footer {
     display: flex;
-    text-align: center;
     justify-content: space-between;
+    max-width: 1200px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+  }
+
+  .section-footer {
+    margin: auto 0;
   }
 
   .inner-footer02 {
@@ -1103,8 +1109,6 @@ td {
   }
 
   .footer-menu-contents02 {
-    margin-top: 90px;
-    margin-left: -300px;
     display: flex;
   }
 
