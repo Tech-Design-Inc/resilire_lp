@@ -18,10 +18,10 @@
       <stop offset="1" stop-color="#fffcfc"/>
     </linearGradient>
   </defs>
-  <g id="グループ_436" data-name="グループ 436" transform="translate(-9076 3778)">
-    <rect id="macbookgrey_front" width="418" height="239" transform="translate(9076 -3778)" fill="url(#pattern)"/>
-    <path id="長方形_2042" data-name="長方形 2042" d="M0,0H328a10,10,0,0,1,10,10V228a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(9116 -3775)" opacity="0.197" fill="url(#linear-gradient)"/>
-    <rect id="iphonexspacegrey_portrait" width="95" height="189" transform="translate(9347 -3722)" fill="url(#pattern-2)"/>
-    <rect id="長方形_2043" data-name="長方形 2043" width="82.2" height="149.5" transform="translate(9353.6 -3702)" opacity="0.201" fill="url(#linear-gradient-2)"/>
+  <g id="グループ_489" data-name="グループ 489" transform="translate(-9083 3757)">
+    <rect id="macbookgrey_front" width="418" height="239" transform="translate(9083 -3757)" fill="url(#pattern)"/>
+    <path id="長方形_2042" data-name="長方形 2042" d="M13,0H323.5a13,13,0,0,1,13,13V226.6a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V13A13,13,0,0,1,13,0Z" transform="translate(9123 -3754.2)" opacity="0.197" fill="url(#linear-gradient)"/>
+    <rect id="iphonexspacegrey_portrait" width="95" height="189" transform="translate(9354 -3701)" fill="url(#pattern-2)"/>
+    <rect id="長方形_2043" data-name="長方形 2043" width="82.2" height="149.5" transform="translate(9360.6 -3681)" opacity="0.201" fill="url(#linear-gradient-2)"/>
   </g>
 </svg>
