@@ -1,0 +1,389 @@
+.header {
+  margin-top: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header-inner {
+  max-width: 1024px;
+  width: 90%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 10px;
+}
+
+.header-logo {
+  height: 35px;
+}
+
+/*contact*/
+
+.contact {
+  min-height: 600px;
+  background-color: #F5F8FA;
+  margin-top: 20px;
+  padding-top: 5px;
+  width: 100%;
+}
+
+.contact-form {
+  text-align: center;
+}
+
+
+.contactform-message {
+  margin-top: 30px;
+  padding: 12px 16px;
+  width: 150px;
+  text-align: left;
+  color: #747474;
+  font-size: 12px;
+  font: medium;
+  background: #FBFBFB 0% 0% no-repeat padding-box;
+  border: 1px solid #DDDDDD;
+}
+
+.contactform-contents {
+  margin: 8px auto;
+}
+
+.btn-area {
+  text-align: center;
+}
+
+input[type="submit"]:hover {
+  background-color: #222F40;
+}
+
+textarea {
+  height: 80px;
+}
+
+.title {
+  text-align: center;
+  font: Bold 20px YuGothic;
+  letter-spacing: 1.44px;
+  color: #4c4c4c;
+  margin: 140px auto 0px auto;
+}
+
+.subtitle {
+  text-align: center;
+  font-family: YuGothic;
+  margin-bottom: 10px;
+  color: #4c4c4c;
+}
+
+.main-message {
+  text-align: center;
+  font: Bold 18px YuGothic;
+  letter-spacing: 1.08px;
+  color: #222F40;
+  width: 420px;
+  margin-left: 40px;
+}
+
+.detail {
+  height: 140px;
+  width: 500px;
+  padding: 20px;
+  margin-top: 20px;
+  background: #EBF5FA 0% 0% no-repeat padding-box;
+}
+
+.detail-contentstitle {
+  text-align: left;
+  font: Bold 16px YuGothic;
+  letter-spacing: 0.84px;
+  color: #222F40;
+}
+
+.detail-contents {
+  text-align: left;
+  font: 14px YuGothic;
+  letter-spacing: 0.84px;
+  color: #222F40;
+}
+
+.contents-left {
+  margin-right: 80px;
+}
+
+.contact-form {
+  margin: 0 auto;
+}
+
+.contact-title {
+  text-align: left;
+  font: Medium 16px YuGothic;
+  letter-spacing: 0.96px;
+  color: #222F40;
+}
+
+.contact-description {
+  text-align: left;
+  font: Medium 18px YuGothic;
+  letter-spacing: 1.08px;
+  color: #222F40;
+
+  margin-top: 0px;
+}
+
+.contactform-contents {
+  margin-top: 12px;
+  padding: 12px 15px;
+  width: 350px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #747474;
+  font-size: 12px;
+  font: medium YuGothic;
+  background: #FBFBFB 0% 0% no-repeat padding-box;
+  border: 1px solid #DDDDDD;
+}
+
+.contact-check {
+  margin-top: 10px;
+  font-size: 12px;
+  font-family: YuGothic;
+}
+
+.from-connected {
+  font-size: 13px;
+  font-family: YuGothic;
+  color: #747474;
+}
+
+.checkbox {
+  font-size: 13px;
+  font-family: YuGothic;
+  color: #747474;
+}
+
+.btn-area {
+  text-align: center;
+}
+
+input[type="submit"] {
+  background: transparent linear-gradient(91deg, #BA7200 0%, #DFAC01 100%) 0% 0% no-repeat padding-box;
+  ;
+  border: none;
+  color: white;
+  font-size: 15px;
+  font-family: YuGothic;
+  font-weight: bold;
+  border-radius: 2px;
+  margin-top: 20px;
+  width: 380px;
+  height: 50px;
+}
+
+input[type="submit"]:hover {
+  background: #C98A01;
+}
+
+/*footer contents*/
+
+.inner-footer {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.footer-contents02 {
+  width: 100%;
+  height: 50px;
+  background: #172231;
+
+}
+
+.footer-menu02 {
+  margin: 15px 20px;
+  text-align: left;
+  font-weight: normal;
+}
+
+.menu02 {
+  color: white;
+  text-decoration: none;
+  font: bold 13px YuGothic;
+  letter-spacing: 0.9px;
+}
+
+
+
+.menu03 {
+  color: white;
+  text-decoration: none;
+  font: 12px YuGothic;
+  letter-spacing: 0.9px;
+  text-align: right;
+  padding-top: 3px;
+  margin-right: 25px;
+}
+
+.footer-contents-left {
+  margin-left: 120px;
+}
+
+.siryo-contact {
+  color: #0567A8;
+}
+
+
+@media screen and (min-width: 561px) {
+  /*Contact*/
+
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .contactform-contents {
+    width: 90%;
+    padding: 0 auto;
+  }
+
+  input[type="submit"] {
+    background-color: #5D7EA8;
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-family: YuGothic;
+    font-weight: bold;
+    border-radius: 2px;
+    margin-top: 20px;
+    width: 380px;
+    height: 50px;
+  }
+
+  .contact-message {
+    text-align: center;
+    font-family: YuGothic;
+    margin: 20px auto;
+  }
+
+  .footer-inner {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .after-follow {
+    text-align: center;
+    font: Bold 18px YuGothic;
+  }
+
+}
+
+@media screen and (max-width:560px) {
+  .title {
+    margin-top: 120px;
+    font-size: 18px;
+    width: 90%;
+    text-align: left;
+  }
+
+  .subtitle {
+    font-size: 14px;
+    width: 90%;
+    text-align: left;
+    margin: 20px auto 0 auto;
+  }
+
+
+
+  .footer-menu02 {
+    margin: 0px -10px;
+    text-align: left;
+    width: 100%;
+    margin: 0 10px;
+    font-size: 12px;
+  }
+
+  .footer-logo {
+    width: 50%;
+    margin-left: -120px;
+  }
+
+
+  .footer-menu-contents02 {
+    display: flex;
+    margin: 50px 0 50px 40px;
+
+  }
+
+  .footer-inner {
+    text-align: center;
+  }
+
+  .footer-contents02 {
+    width: 100%;
+    height: 60px;
+    background: #172231;
+    margin-top: 20px;
+  }
+
+  .footer-contents-left {
+    margin-left: 0px;
+  }
+
+
+  .menu02 {
+    margin: 5px 10px 0 10px;
+  }
+
+  .menu03 {
+    font-size: 10px;
+    text-align: center;
+
+  }
+
+  .footer-inner {
+    width: 100%;
+  }
+
+  .after-follow {
+    text-align: center;
+    font: Bold 18px YuGothic;
+  }
+
+  /*Contact*/
+
+
+
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .contactform-contents {
+    width: 90%;
+    padding: 0 auto;
+  }
+
+  input[type="submit"] {
+    background-color: #5D7EA8;
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-family: YuGothic;
+    font-weight: bold;
+    border-radius: 2px;
+    margin-top: 20px;
+    width: 380px;
+    height: 50px;
+  }
+
+  .contact-message {
+    text-align: center;
+    font-family: YuGothic;
+    margin: 20px auto;
+  }
+}
