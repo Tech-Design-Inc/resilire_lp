@@ -1,3 +1,9 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+
 .header {
   margin-top: 20px;
   position: absolute;
@@ -35,13 +41,11 @@
   font: Bold 18px YuGothic;
   letter-spacing: 1.08px;
   color: #222F40;
-  width: 420px;
   margin-left: 40px;
+  width: 90%;
 }
 
 .detail {
-  height: 140px;
-  width: 500px;
   padding: 20px;
   margin-top: 20px;
   background: #EBF5FA 0% 0% no-repeat padding-box;
@@ -236,6 +240,15 @@ input[type="submit"]:hover {
     text-align: center;
     font: Bold 18px YuGothic;
   }
+
+  .detail {
+    height: 140px;
+    width: 500px;
+  }
+
+  .detail-contents01 {
+    display: none;
+  }
 }
 
 @media screen and (max-width:560px) {
@@ -265,7 +278,37 @@ input[type="submit"]:hover {
   }
 
   .main-message {
+    margin: -40px auto 0 auto;
+  }
+
+  .detail {
+    height: 205px;
+    width: 80%;
     margin: 0 auto;
+  }
+
+  .detail-contents {
+    display: none;
+  }
+
+  .detail-contents01 {
+    text-align: left;
+    font: 14px YuGothic;
+    letter-spacing: 0.84px;
+    color: #222F40;
+  }
+
+  input[type="submit"] {
+    width: 300px;
+  }
+
+  .contactform-contents {
+    width: 273px;
+  }
+
+  .contactform-message {
+    margin: 30px 10px 0 3px;
+    width: 110px;
   }
 
   .footer-menu02 {
