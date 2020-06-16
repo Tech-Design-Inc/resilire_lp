@@ -748,6 +748,10 @@ td {
   margin-left: 120px;
 }
 
+.footer-menu-contents02 p {
+  margin: 0 10px;
+}
+
 @media screen and (min-width: 561px) {
   .header {
     padding: 20px 30px 0 30px;
