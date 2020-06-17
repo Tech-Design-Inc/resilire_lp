@@ -29,6 +29,8 @@
       </div>
     </div>
   </header>
+
+
   <!--contents-->
   <article>
     <div class="title">ご質問、ご相談は以下のフォームよりお送りください。<br>内容確認後、担当より通常2営業日以内にご連絡いたします。</div>
@@ -37,7 +39,7 @@
     <a name="contact"></a>
     <article class="contact">
       <div class="contact-form">
-        <form method="post" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSeG01iWrggu2tQ2Ef6cVhLM-rOyPLUZpXmybPSEalxAAoDWFw/formResponse" id="mG61Hd" >
+        <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSeG01iWrggu2tQ2Ef6cVhLM-rOyPLUZpXmybPSEalxAAoDWFw/formResponse" method="post" name="myForm" target="dummyIframe">
           <input class="contactform-contents" placeholder="会社名" type="text" name="entry.157724296">
           <input class="contactform-contents" placeholder="お名前" type="text" name="entry.1719984089">
           <input class="contactform-contents" placeholder="メールアドレス" type="email" name="entry.798982177">
@@ -45,11 +47,20 @@
           <input class="contactform-contents" placeholder="ご用件" type="text" name="entry.2112044301">
           <textarea class="contactform-contents" placeholder="お問い合わせ内容" required name="entry.1153610927"></textarea>
           <div class="btn-area">
-            <input type="submit" value="送信">
+            <input type="submit" value="送信" onclick="sendForm()">
           </div>
         </form>
       </div>
+      <iframe name="dummyIframe" style="display:none;"></iframe>
+      </div>
+      <div id="thxMessage" style="display:none;">お問い合わせありがとうございました。</div>
     </article>
+    <script>
+      function sendForm(){
+        document.myForm.submit();
+        location.href = "./contact-thanks.html";
+      }
+    </script>
 
     </section>
 
