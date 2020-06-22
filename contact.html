@@ -29,6 +29,8 @@
       </div>
     </div>
   </header>
+
+
   <!--contents-->
   <article>
     <div class="title">ご質問、ご相談は以下のフォームよりお送りください。<br>内容確認後、担当より通常2営業日以内にご連絡いたします。</div>
@@ -37,19 +39,28 @@
     <a name="contact"></a>
     <article class="contact">
       <div class="contact-form">
-        <form>
-          <input class="contactform-contents" placeholder="会社名" type="text">
-          <input class="contactform-contents" placeholder="お名前" type="text">
-          <input class="contactform-contents" placeholder="メールアドレス" type="email" name="email">
-          <input class="contactform-contents" placeholder="TEL(ハイフンなし)" id="tel" type="tel" name="num">
-          <input class="contactform-contents" placeholder="ご用件" type="text">
-          <textarea class="contactform-contents" placeholder="お問い合わせ内容"></textarea>
+        <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSeKeEXhLcUeC5P7ybiOcOrn9HVL-tKdw5fGn3LkA2zDpRXjDQ/formResponse" method="post" name="myForm" target="dummyIframe">
+          <input class="contactform-contents" placeholder="会社名" type="text" name="entry.1122970705">
+          <input class="contactform-contents" placeholder="お名前" type="text" name="entry.1669952034">
+          <input class="contactform-contents" placeholder="メールアドレス" type="email" name="entry.644780710">
+          <input class="contactform-contents" placeholder="TEL(ハイフンなし)" id="tel" name="entry.688417561">
+          <input class="contactform-contents" placeholder="ご用件" type="text" name="entry.1937345752">
+          <textarea class="contactform-contents" placeholder="お問い合わせ内容" required name="entry.257417386"></textarea>
+          <div class="btn-area">
+            <input type="submit" value="送信" onclick="sendForm()">
+          </div>
         </form>
-        <div class="btn-area">
-          <input type="submit" value="送信">
-        </div>
       </div>
+      <iframe name="dummyIframe" style="display:none;"></iframe>
+      </div>
+      <div id="thxMessage" style="display:none;">お問い合わせありがとうございました。</div>
     </article>
+    <script>
+      function sendForm(){
+        document.myForm.submit();
+        location.href = "./contact-thanks.html";
+      }
+    </script>
 
     </section>
 

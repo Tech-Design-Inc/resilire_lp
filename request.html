@@ -42,39 +42,48 @@
       <section class="contents-right">
         <div class="contact-description">下記フォームへ必須事項をご記入の上<br>送信をお願いいたします。</div>
 
-        <form>
+        <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfrkbqL_SNsbHsk54Phup06iFGrGz6oe9cwBmfWEjIQE8Rj5g/formResponse" method="post" name="myForm" target="dummyIframe">
           <div class="contactform-name">
             <div>
-              <input class="contactform-message" placeholder="性" type="text">
+              <input class="contactform-message" name="entry.2084589308" placeholder="性" type="text">
             </div>
             <div>
-              <input class="contactform-message" placeholder="名" type="text">
+              <input class="contactform-message" name="entry.1472089760" placeholder="名" type="text">
             </div>
           </div>
-          <input class="contactform-contents" placeholder="会社名" type="text">
+          <input class="contactform-contents" name="entry.1011415945" placeholder="会社名" type="text">
 
-          <input class="contactform-contents" placeholder="会社のメールアドレス" type="email" name="email">
+          <input class="contactform-contents" name="entry.760597235" placeholder="会社のメールアドレス" type="email" name="email">
 
-          <input class="contactform-contents" placeholder="TEL(ハイフンなし)" id="tel" type="tel" name="num">
+          <input class="contactform-contents" name="entry.869280847" placeholder="TEL(ハイフンなし)" id="tel" type="tel" name="num">
 
 
           </select>
           <div class="contact-check">この先続行することで<a href="" class="protectionact">個人情報保護方針</a>に同意したものとします。</div>
           <p class="from-connected">【任意】サイト訪問のきっかけを教えてください（複数可）</p>
           <div class="checkbox">
-            <input type="checkbox" name="sport" value="オンライン広告"><label>オンライン広告</label>
-            <input type="checkbox" name="sport" value="社内外からの紹介"><label>社内外からの紹介</label>
-            <input type="checkbox" name="sport" value="検索"><label>検索</label><br>
-            <input type="checkbox" name="sport" value="プレスリリース"><label>プレスリリース</label>
-            <input type="checkbox" name="sport" value="その他"><label>その他</label></div>
+            <input type="checkbox" name="entry.1251122614" value="オンライン広告"><label>オンライン広告</label>
+            <input type="checkbox" name="entry.1251122614" value="社内外からの紹介"><label>社内外からの紹介</label>
+            <input type="checkbox" name="entry.1251122614" value="検索"><label>検索</label><br>
+            <input type="checkbox" name="entry.1251122614" value="プレスリリース"><label>プレスリリース</label>
+            <input type="checkbox" name="entry.1251122614" value="その他"><label>その他</label></div>
           <div class="btn-area">
-            <input type="submit" value="資料請求する">
+            <input type="submit" value="資料請求する" onclick="sendForm()">
           </div>
         </form>
     </div>
+    </div>
     <div class="after-follow">ご不明点あればお気軽にお問い合わせください！<br><a href="contact.html" class="siryo-contact">お問い合わせはこちら</a>
+      <iframe name="dummyIframe" style="display:none;"></iframe>
+      <script>
+        function sendForm(){
+          document.myForm.submit();
+          location.href = "./request-thanks.html";
+        }
+      </script>
     </div>
     </section>
+
 
     <!--footer-->
 
