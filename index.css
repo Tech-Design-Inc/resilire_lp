@@ -605,7 +605,6 @@ td {
   height: 420px;
   background-color: #172231;
   border: 1px solid #707070;
-  display: none;
 }
 
 .traial-closing {
@@ -1454,7 +1453,7 @@ td {
     width: 100%;
     margin-left: -20px;
     font: 14px sans-serif;
-    line-height: 160%;
+    line-height: 170%;
 
   }
 
