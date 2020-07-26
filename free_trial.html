@@ -52,7 +52,9 @@
       <section class="contents-right">
         <div class="contact-description">下記フォームへ必須事項をご記入の上<br>送信をお願いいたします。</div>
 
-        <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdREQdBXpTe7BJ6SDFE7Ib47dHqatwxCiO2_PcPmGbA13WePg/formResponse" method="post" name="myForm" target="dummyIframe">　
+        <form
+          action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdREQdBXpTe7BJ6SDFE7Ib47dHqatwxCiO2_PcPmGbA13WePg/formResponse"
+          method="post" name="myForm" target="dummyIframe">　
           <div class="contactform-name">
             <div>
               <input class="contactform-message" placeholder="性" name="entry.1005301005" type="text">
@@ -65,7 +67,8 @@
 
           <input class="contactform-contents" placeholder="会社のメールアドレス" name="entry.165733267" type="email" name="email">
 
-          <input class="contactform-contents" placeholder="TEL(ハイフンなし)" name="entry.1752647602" id="tel" type="tel" name="num">
+          <input class="contactform-contents" placeholder="TEL(ハイフンなし)" name="entry.1752647602" id="tel" type="tel"
+            name="num">
 
           </select>
           <div class="contact-check">この先続行することで<a href="resilire_privacy.pdf"
@@ -85,9 +88,9 @@
         <p class="from-connected">※トライアル開始日はお申し込み後ご相談いただけます。</p>
     </div>
     <script>
-      function sendForm(){
+      function sendForm() {
         document.myForm.submit();
-        location.href = "./request-thanks.html";
+        location.href = "./thanks.html";
       }
     </script>
 

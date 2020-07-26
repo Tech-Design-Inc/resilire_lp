@@ -605,7 +605,7 @@ td {
   height: 420px;
   background-color: #172231;
   border: 1px solid #707070;
-
+  display: none;
 }
 
 .traial-closing {
@@ -1392,9 +1392,9 @@ td {
   }
 
   .can01-subtitle {
-    margin-top: 10px;
+    margin-top: -10px;
     margin-bottom: 20px;
-    text-aline: left;
+    text-align: left;
   }
 
   .can01 {
