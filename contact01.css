@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: YuGothic, sans-serif;
 }
 
 .header {
@@ -71,7 +71,8 @@ textarea {
 
 .title {
   text-align: center;
-  font: Bold 20px YuGothic;
+  font-weight: Bold;
+  font-size: 20px;
   letter-spacing: 1.44px;
   color: #4c4c4c;
   margin: 140px auto 0px auto;
@@ -79,14 +80,14 @@ textarea {
 
 .subtitle {
   text-align: center;
-  font-family: YuGothic;
   margin-bottom: 10px;
   color: #4c4c4c;
 }
 
 .main-message {
   text-align: center;
-  font: Bold 18px YuGothic;
+  font-weight: Bold;
+  font-size: 18px;
   letter-spacing: 1.08px;
   color: #222F40;
   width: 420px;
@@ -103,14 +104,15 @@ textarea {
 
 .detail-contentstitle {
   text-align: left;
-  font: Bold 16px YuGothic;
+  font-weight: Bold;
+  font-size: 16px;
   letter-spacing: 0.84px;
   color: #222F40;
 }
 
 .detail-contents {
   text-align: left;
-  font: 14px YuGothic;
+  font-size: 14px;
   letter-spacing: 0.84px;
   color: #222F40;
 }
@@ -125,14 +127,16 @@ textarea {
 
 .contact-title {
   text-align: left;
-  font: Medium 16px YuGothic;
+  font-weight: Medium;
+  font-size: 16px;
   letter-spacing: 0.96px;
   color: #222F40;
 }
 
 .contact-description {
   text-align: left;
-  font: Medium 18px YuGothic;
+  font-weight: Medium;
+  font-size: 18px;
   letter-spacing: 1.08px;
   color: #222F40;
 
@@ -147,7 +151,7 @@ textarea {
   letter-spacing: 0px;
   color: #747474;
   font-size: 12px;
-  font: medium YuGothic;
+  font-weight: medium;
   background: #FBFBFB 0% 0% no-repeat padding-box;
   border: 1px solid #DDDDDD;
 }
@@ -155,18 +159,15 @@ textarea {
 .contact-check {
   margin-top: 10px;
   font-size: 12px;
-  font-family: YuGothic;
 }
 
 .from-connected {
   font-size: 13px;
-  font-family: YuGothic;
   color: #747474;
 }
 
 .checkbox {
   font-size: 13px;
-  font-family: YuGothic;
   color: #747474;
 }
 
@@ -180,7 +181,6 @@ input[type="submit"] {
   border: none;
   color: white;
   font-size: 15px;
-  font-family: YuGothic;
   font-weight: bold;
   border-radius: 2px;
   margin-top: 20px;
@@ -216,7 +216,8 @@ input[type="submit"]:hover {
 .menu02 {
   color: white;
   text-decoration: none;
-  font: bold 13px YuGothic;
+  font-weight: bold;
+  font-size: 13px;
   letter-spacing: 0.9px;
 }
 
@@ -225,7 +226,7 @@ input[type="submit"]:hover {
 .menu03 {
   color: white;
   text-decoration: none;
-  font: 12px YuGothic;
+  font-size: 12px;
   letter-spacing: 0.9px;
   text-align: right;
   padding-top: 3px;
@@ -259,7 +260,6 @@ input[type="submit"]:hover {
     border: none;
     color: white;
     font-size: 15px;
-    font-family: YuGothic;
     font-weight: bold;
     border-radius: 2px;
     margin-top: 20px;
@@ -269,7 +269,6 @@ input[type="submit"]:hover {
 
   .contact-message {
     text-align: center;
-    font-family: YuGothic;
     margin: 20px auto;
   }
 
@@ -281,7 +280,8 @@ input[type="submit"]:hover {
 
   .after-follow {
     text-align: center;
-    font: Bold 18px YuGothic;
+    font-weight: Bold;
+    font-size: 18px;
   }
 
 }
@@ -359,7 +359,8 @@ input[type="submit"]:hover {
 
   .after-follow {
     text-align: center;
-    font: Bold 18px YuGothic;
+    font-weight: Bold;
+    font-size: 18px;
   }
 
   /*Contact*/
@@ -380,7 +381,6 @@ input[type="submit"]:hover {
     border: none;
     color: white;
     font-size: 15px;
-    font-family: YuGothic;
     font-weight: bold;
     border-radius: 2px;
     margin-top: 20px;
@@ -390,7 +390,6 @@ input[type="submit"]:hover {
 
   .contact-message {
     text-align: center;
-    font-family: YuGothic;
     margin: 20px auto;
   }
 }
