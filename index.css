@@ -309,6 +309,8 @@ body {
   color: #000000;
   text-align: left;
   width: 500px;
+  line-height: 1.6;
+  font-size: 18px;
 }
 
 .charactorright-title {
@@ -329,6 +331,7 @@ body {
   text-align: left;
   line-height: 180%;
   width: 500px;
+  line-height: 1.6;
 }
 
 .font-impact {
